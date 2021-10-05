@@ -1,0 +1,33 @@
+[
+  {
+    "Id": "0",
+    "Name": "Initial Release",
+    "DevelopmentStatus": "Stable",
+    "Description": "Initial release of \"Coding 4 Fun - Windows 7 -JumpList\" sample code.  Related to article on Coding 4 Fun blog (to be published soon)",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-11-30T17:29:27.157-08:00",
+    "Files": [
+      {
+        "Id": "c3aa3971-de7d-4da5-9dae-6e04f4f33578",
+        "FileName": "C4F-Win7-Jumplist-bin.zip",
+        "Url": "./0/c3aa3971-de7d-4da5-9dae-6e04f4f33578",
+        "Type": "Application",
+        "UploadDate": "2009-11-30T17:23:07.573-08:00"
+      },
+      {
+        "Id": "be34bd7c-4a38-40e6-86c8-a64c212e9649",
+        "FileName": "C4F-Win7-Jumplist-src-cs.zip",
+        "Url": "./0/be34bd7c-4a38-40e6-86c8-a64c212e9649",
+        "Type": "Source Code",
+        "UploadDate": "2009-11-30T17:28:07.667-08:00"
+      },
+      {
+        "Id": "9f1c4090-cda4-4b2b-b3ff-aeb5e4deeeb1",
+        "FileName": "C4F-Win7-Jumplist-src-vb.zip",
+        "Url": "./0/9f1c4090-cda4-4b2b-b3ff-aeb5e4deeeb1",
+        "Type": "Source Code",
+        "UploadDate": "2009-11-30T17:28:07.683-08:00"
+      }
+    ]
+  }
+]
