@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows7Jumplist", "Windows7Jumplist\Windows7Jumplist.csproj", "{BCBA8C57-55E1-48C3-B374-F7E52BC1B66C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "JumplistSetup", "JumplistSetup\JumplistSetup.vdproj", "{6D5CA774-26FB-46F6-B526-99B18EA46196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCBA8C57-55E1-48C3-B374-F7E52BC1B66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBA8C57-55E1-48C3-B374-F7E52BC1B66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBA8C57-55E1-48C3-B374-F7E52BC1B66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBA8C57-55E1-48C3-B374-F7E52BC1B66C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5CA774-26FB-46F6-B526-99B18EA46196}.Debug|Any CPU.ActiveCfg = Debug
+		{6D5CA774-26FB-46F6-B526-99B18EA46196}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2504B396-538F-438A-BC06-6E1637FBE19D}
+	EndGlobalSection
+EndGlobal
