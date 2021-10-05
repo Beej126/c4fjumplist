@@ -2,8 +2,9 @@
 C4F - Windows 7 - JumpList Sample
 
 Forked from CodePlex: https://archive.codeplex.com/?p=c4fjumplist
-https://channel9.msdn.com/coding4fun/articles/Windows-7-Jump-Lists
-https://web.archive.org/web/20110902142529/https://channel9.msdn.com/coding4fun/articles/Windows-7-Jump-Lists
+- https://channel9.msdn.com/coding4fun/articles/Windows-7-Jump-Lists
+- https://web.archive.org/web/20110902142529/https://channel9.msdn.com/coding4fun/articles/Windows-7-Jump-Lists
+> IMHO the sample code leveraging a mutex to manage single app instance along with signaling to the main instance via wndproc messages is rather timeless
 
 In this article/sample, learn how to provide quick access to links and actions in your Windows 7 application by creating a JumpList. (MSDN Coding 4 Fun)
 
